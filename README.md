@@ -21,7 +21,7 @@ Objetivos Específicos
 
 
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
-Capítulo 1
+
 
 
 **4.VIDEO**
