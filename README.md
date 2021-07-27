@@ -138,6 +138,27 @@ c) El VRP es:
 
 3. El toroide de la figura 12-42 tiene una sección transversal circular y fi=628 microWb. Si r1=8 cm y r2=12 cm, ¿cuál es la densidad de flujo en teslas?
 
+**12-5 Espacios de aire, desbordamiento y núcleos laminados**
+
+**12-6 Elementos en serie y en paralelo**
+
+**12-8 Intensidad de campo magnético y curvas de magnetización**
+
+9. Un núcleo con dimensiones de 2 cm × 3cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene 	 si el núcleo es de hierro fundido? ¿Si es de acero fundido? ¿Si es de hoja de acero con FA= 0.94?
+
+**12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
+
+15. Encuentre la corriente I en la figura 12-48 si fi= 0.16 mWb.
+
+21. Para el circuito de la figura 12-51, 	 -
+ fi = 30× uWb y N = 2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I.
+
+**12-11 Circuitos magnéticos en serie-paralelo**
+
+**12-12 Circuitos magnéticos en serie: a partir de NI encontrar**
+
+27. Si NI= 644 Av para el núcleo de acero fundido de la figura 12-54, encuentre el flujo, fi.	
+
 **4.VIDEO**
 
 Link de video:
