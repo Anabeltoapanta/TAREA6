@@ -22,7 +22,7 @@ Objetivos Específicos
 
 **2.MARCO TEÓRICO**
 
-
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/marco11.jpeg)
 
 ![image](https://user-images.githubusercontent.com/85134094/127166675-f275e867-72c1-4e78-9b8f-ff926ef1376d.png)
 
