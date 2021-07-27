@@ -101,6 +101,8 @@ C)	ecuaciones de descarga para vC e Ic
 
 ![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio27.3.png)
 
+**11-5 Circuitos más complejos**
+
 33. Para el circuito de la figura 11-54, el capacitor está inicialmente descargado.
 El interruptor es movido primero a la posición de carga y luego a la de descarga, proporcionando la corriente que se muestra en la figura 11-58. El capacitor se carga totalmente en 12.5 s. Determine E, R2 y C.
 
