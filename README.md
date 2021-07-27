@@ -77,6 +77,7 @@ GRAFICS
 
 Vc inicia en 30 V y disminuye notarialmente en 20 V y así va disminuyendo paulatinamente además Ic comienza en 0 A en un tiempo de 0 s y así mismo disminuye paulatinamente
 
+**11-4 Ecuaciones de descarga del capacitor**
 
 27. Para la figura 11-54, sea E = 200 V, R2 = 1 k y C =0.5 F. Después de que el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2. 
 
