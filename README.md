@@ -181,12 +181,17 @@ Como podemos observar esta forma de onda es una forma ideal para lo cual el anch
 
 3. El toroide de la figura 12-42 tiene una sección transversal circular y fi=628uWb. Si r1=8 cm y r2=12 cm, ¿cuál es la densidad de flujo en teslas?
 
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/Capitulo%2012/1627384410379.jpg)
+
 DATOS
+
 ∅=628μWb
+
 r1= 8 cm= 0.08m
+
 r2= 12 cm=0.12 m
 
-![]()
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/Capitulo%2012/1627384367218.jpg)
 
 **12-5 Espacios de aire, desbordamiento y núcleos laminados**
 
@@ -200,9 +205,13 @@ r2= 12 cm=0.12 m
 acero fundido? ¿Si es de hoja de acero con FA=0.94?
 
 DATOS 
+
 Dimensiones= 2cm×3cm
+
 H=1200 Av/m
+
 FA=0.94
+
 Factor apilamiento=0.94
 
 ![]()
