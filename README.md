@@ -136,6 +136,8 @@ c) El VRP es:
 
 **12-3 Flujo magnético y densidad de flujo**
 
+3. El toroide de la figura 12-42 tiene una sección transversal circular y fi=628 microWb. Si r1=8 cm y r2=12 cm, ¿cuál es la densidad de flujo en teslas?
+
 **4.VIDEO**
 
 Link de video:
