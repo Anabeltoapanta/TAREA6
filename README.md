@@ -301,6 +301,14 @@ N=30 vueltas
 
 ![image](https://user-images.githubusercontent.com/85134094/127164397-fefa7e3d-2d29-4d63-b246-3bb4994d474a.png)
 
+21. Para el circuito de la figura 12-51,	30  Wb y N  2000 vueltas. No
+tome en cuenta el desbordamiento y encuentre la corriente I.
+
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/EJERCICIO21CAP12.1.png)
+
+RESOLUCION
+
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/EJERCICIO21CAP12.png)
 
 **4.Video**
 
