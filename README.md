@@ -22,8 +22,7 @@ Objetivos Específicos
 
 **2.MARCO TEÓRICO**
 
-![Uploading image.png…]()
-
+![image](https://user-images.githubusercontent.com/85134094/127166675-f275e867-72c1-4e78-9b8f-ff926ef1376d.png)
 
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
