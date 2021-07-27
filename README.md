@@ -37,6 +37,8 @@ c. ¿A qué se parece un capacitor en estado estable de cd?
 
 **A un circuito abierto**
 
+**11-2 Ecuaciones de carga del capacitor**
+
 9. Repita el problema 8 para el circuito de la figura 11-5
 
 ![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio9.png)
@@ -55,6 +57,8 @@ r=o cuando se cierra
 r=1 s para cargarse
 
 ![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio15.png)
+
+**11-3 Capacitores con un voltaje inicial**
 
 21. Para el capacitor de la figura 11-51, V0 = 30 V.
 
