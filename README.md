@@ -131,6 +131,11 @@ c) El VRP es:
 ![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio39.2.png)
 
 
+
+**CAPÍTULO 12**
+
+**12-3 Flujo magnético y densidad de flujo**
+
 **4.VIDEO**
 
 Link de video:
