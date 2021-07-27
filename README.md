@@ -19,18 +19,25 @@ Objetivos Generales
 
 Objetivos Específicos
 
-* Determinar los voltajes y corrientes en circuitos RC simples durante la carga y descarga.
+* determinar los voltajes y corrientes
+en circuitos RC simples durante la
+carga y descarga.
 
-* Analizar el uso de las formas de onda de carga y descarga.
+* describir el uso de las formas de
+onda de carga y descarga
 
-* Explicar por qué los transitorios ocurren en circuitos RC.
+* explicar por qué los transitorios
+ocurren en circuitos RC
 
-* determinar la intensidad de campo magnético o la densidad de flujo magnético.
+* determinar la intensidad de campo
+magnético o la densidad de flujo
+magnético
 
-* Resolver circuitos magnéticos en serie-paralelo.
+* resolver circuitos magnéticos en
+serie-paralelo.
 
-* Explicar qué son los circuitos magnéticos y por qué se usan.
-
+*  explicar qué son los circuitos
+magnéticos y por qué se usan.
 
 **2.MARCO TEÓRICO**
 
@@ -324,12 +331,17 @@ RESOLUCION
 
 **4.Video**
 
-Link de video:
+Link de video
 
 
 
 **5.CONCLUSIONES**
 
+- Los circuitos mostrados a continuacion presenta cierto grado de complejidad pero para ello se debe aplicar los metodos y conceptos estudiados anteriormente estos nos ayudan a realizar correctamente los calculos con los nuevos elementos que  añadimos al circuito, por ello se debe simplificar el circuito a uno que sea conocido y facil de entender y calcular.
+
+- Para los circuitos magneticos es imporante tener en cuenta tanto el tipo de material  sus diferentes dimensiones y para que proposito tienen ya que estos trabajan con valores exactos donde si cambiamos algun valor o ponemos valores erroneos el circuito nos mostrara  resultados diferentes a los deseados.
+
+-
 
 **6.BIBLIOGRAFÍA**
 
