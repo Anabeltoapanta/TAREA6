@@ -222,7 +222,7 @@ Factor apilamiento=0.94
 
 15. Encuentre la corriente I en la figura 12-48 si fi=0.16 mWb.
 
-![](https://github.com/Anabeltoapanta/TAREA6/blob/main/Capitulo%2012/1627385158727.jpg)
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/Capitulo%2012/1627385282647.jpg)
 
 DATOS
 
