@@ -27,6 +27,9 @@ Objetivos Específicos
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 **11-1 Introducción**
+1. El capacitor de la figura 11-50 está descargado. a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor? b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado
+
+![image](https://user-images.githubusercontent.com/85134094/127162314-e7563509-b0eb-4681-baf1-fa0b97d19ed1.png)
 
 3. a. ¿A qué se parece un capacitor descargado en el instante que se conecta el
 interruptor?
@@ -45,6 +48,10 @@ c. ¿A qué se parece un capacitor en estado estable de cd?
 
 ![image](https://user-images.githubusercontent.com/85134094/127097201-7d8423a1-f15c-423e-a456-56e9ee6515ee.png)
 
+7. Repita el problema 6 si R=500ohm, C=25uF y E=45V, pero ahora calcule y grafique valores en t 0 s, 20, 40, 60, 80 y 100 ms
+
+![image](https://user-images.githubusercontent.com/85134094/127162672-b10e93ad-eb41-4046-b48b-8830a22129b3.png)
+
 **11-2 Ecuaciones de carga del condensador**
 
 9. Repita el problema 8 para el circuito de la figura 11-5
@@ -60,6 +67,10 @@ c. ¿A qué se parece un capacitor en estado estable de cd?
 ![image](https://user-images.githubusercontent.com/85134094/127097401-587d7106-fb83-4392-9344-37d9272785ff.png)
 
 ![image](https://user-images.githubusercontent.com/85134094/127097433-4e137b56-71eb-4f06-ab12-5773ae51bcf9.png)
+
+13. Para la figura 11-50, el voltaje del capacitor con el interruptor abierto es de 0 V. Cierre el interruptor en t=0 y determine el voltaje y corriente del capacitor en t 0, 40, 80, 120, 160 y 200 �s, use las curvas de la constante de tiempo universal.
+
+![image](https://user-images.githubusercontent.com/85134094/127162891-1b296611-e0d0-420e-9dd8-4d6bd031346f.png)
 
 15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra. El capacitor tarda 1 s para cargarse. Si E = 75 V, determine R y C.
 
@@ -78,6 +89,10 @@ r=1 s para cargarse
 ![image](https://user-images.githubusercontent.com/85134094/127097528-80b937ef-cf9d-4d5e-987d-6ec696a57390.png)
 
 **11-3 Capacitores de un voltaje inicial**
+
+19. El capacitor de la figura 11-50 tiene un voltaje inicial. Si V0 = 10 V, ¿Cuál es la corriente justo después de que el interruptor se ha cerrado?
+
+![image](https://user-images.githubusercontent.com/85134094/127163053-69165eb5-e9c0-4250-9d18-a3e0f1e16a1d.png)
 
 21. Para el capacitor de la figura 11-51, V0 = 30 V.
 
@@ -113,6 +128,10 @@ d. Calcule vc e ic en t = 0+  seg, t = T, 2, 3, 4, y 5T.
 ![image](https://user-images.githubusercontent.com/85134094/127097876-85857139-6b6e-4f5c-816c-6c6662842b6b.png)
 
 ![image](https://user-images.githubusercontent.com/85134094/127098007-ba6c638e-bb74-4e1e-8b68-5463ff5c30a9.png)
+
+25. Un capacitor de 4.7 µF se carga a 43 volts. Si un resistor de 39 kΩ se conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta el resistor?
+
+![image](https://user-images.githubusercontent.com/85134094/127163258-95aeaa7f-bcc6-4a0b-800e-b8a68fee84b1.png)
 
 27. Para la figura 11-54, sea E = 200 V, R2 = 1 k y C =0.5 F. Después de que el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2. 
 
@@ -151,6 +170,14 @@ Analizando el circuito con el interruptor cerrado
 33. Para el circuito de la figura 11-54, el capacitor está inicialmente descargado.
 El interruptor es movido primero a la posición de carga y luego a la de descarga, proporcionando la corriente que se muestra en la figura 11-58. El capacitor se carga totalmente en 12.5 s. Determine E, R2 y C.
 
+35. Determine los voltajes del capacitor y la corriente de la fuente para el circuito de la figura 11-60 después de que se alcanzó el estado estable.
+
+![image](https://user-images.githubusercontent.com/85134094/127165447-91e76ea3-800f-45e4-a0cf-2d5e983c4e75.png)
+
+37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es de 5V,R=750 kΩ y la alarma es activada en 15 s. cuando v_c=3.8 V ¿ Qué valor tiene C?
+
+![image](https://user-images.githubusercontent.com/85134094/127163523-9386fc0c-1351-450e-9dca-ccaefaa543dd.png)
+
 **11-7 Respuesta al pulso de circuitos Rc
 
 39. Considere la forma de onda de la figura 11-62.
@@ -180,8 +207,16 @@ Para los tiempos de subida vemos en la grafica que se miden entre los puntos de 
 
 Como podemos observar esta forma de onda es una forma ideal para lo cual el ancho del pulso seria de 3 a 6 micro segundos
 
+43. Se aplica un escalón al circuito de la figura 11-66. Si R= 150 Ω y C= 20pF, estime el tiempo que tarda en subir el voltaje de salida.
+
+![image](https://user-images.githubusercontent.com/85134094/127163696-f883e5ae-46b5-479c-95c8-45d7283c9992.png)
+
 
 **Capitulo 12** 
+
+1. Vea la figura 12-41: a. ¿Qué área, A1 o A2, utilizaría para calcular la densidad de flujo? b. Si ø=28 mWb, ¿cuál es la densidad de flujo en teslas?
+
+![image](https://user-images.githubusercontent.com/85134094/127164047-29756a8d-be44-4374-bb51-ee2d7f5f54d2.png)
 
 3. El toroide de la figura 12-42 tiene una sección transversal circular y fi=628uWb. Si r1=8 cm y r2=12 cm, ¿cuál es la densidad de flujo en teslas?
 
@@ -203,6 +238,10 @@ r2= 12 cm=0.12 m
 
 ![image](https://user-images.githubusercontent.com/85134094/127098454-978425e8-6dab-450d-a744-236b237f1a04.png)
 
+7. Para la sección del núcleo de hierro de la figura 12-45, si ø1=12 mWb y ø3=2 mWb, ¿cuánto vale B2?
+
+![image](https://user-images.githubusercontent.com/85134094/127164135-d3a4dcf5-70a8-436c-aad4-ac7000a9829a.png)
+
 **12-8 Intensidad de campo magnético y curvas de magnetización**
 
 9. Un núcleo con dimensiones de 2 cm  3 cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene 	 si el núcleo es de hierro fundido? ¿Si es de
@@ -223,6 +262,10 @@ Factor apilamiento=0.94
 11. Considere una vez mas la figura 12-42. Si I = 10 A, N = 40 vueltas, r1 = 5 cm y r2 = 7 cm, ¿Qué valor tiene H en amperes-vuelta por metro?
 
 ![image](https://user-images.githubusercontent.com/85134094/127098516-e836f3c3-ca43-42a2-9b33-f16c6fe0ea40.png)
+
+13. Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aun va hacia abajo. Escriba las ecuaciones de la ley de Ampere para este caso.
+
+![image](https://user-images.githubusercontent.com/85134094/127164271-815c7644-8c4f-4efe-9219-673df00e00d4.png)
 
 15. Encuentre la corriente I en la figura 12-48 si fi=0.16 mWb.
 
@@ -251,6 +294,10 @@ N=30 vueltas
 ![image](https://user-images.githubusercontent.com/85134094/127098616-63f90a70-eff2-4265-b524-064c31035cca.png)
 
 ![image](https://user-images.githubusercontent.com/85134094/127098662-e0408685-b093-445b-a764-1fd0143cd9b9.png)
+
+19.  El núcleo de hierro fundido de la figura 12-49 mide 1 cm x 1.5 cm, lg = 0.3 mm, la densidad de flujo del espacio de aire es de 0.426 T y N = 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I.
+
+![image](https://user-images.githubusercontent.com/85134094/127164397-fefa7e3d-2d29-4d63-b246-3bb4994d474a.png)
 
 
 **4.Video**
