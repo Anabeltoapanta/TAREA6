@@ -37,7 +37,11 @@ c. ¿A qué se parece un capacitor en estado estable de cd?
 
 **A un circuito abierto**
 
-**11-2 Ecuaciones de carga del capacitor**
+5. Para un circuito de carga, R=5.6kohm y Vc(0-)=0 V. Si i(0+)=2.7mA, ¿cuál es el valor de E?
+
+![image](https://user-images.githubusercontent.com/85134094/127097201-7d8423a1-f15c-423e-a456-56e9ee6515ee.png)
+
+**11-2 Ecuaciones de carga del condensador**
 
 9. Repita el problema 8 para el circuito de la figura 11-5
 
@@ -47,6 +51,11 @@ c. ¿A qué se parece un capacitor en estado estable de cd?
 
 ![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio9.1.png)
 
+11. Determine la constante de tiempo para el circuito de la figura 11-50. ¿Cuánto tiempo (en segundos) tardará el capacitor en cargarse?
+
+![image](https://user-images.githubusercontent.com/85134094/127097401-587d7106-fb83-4392-9344-37d9272785ff.png)
+
+![image](https://user-images.githubusercontent.com/85134094/127097433-4e137b56-71eb-4f06-ab12-5773ae51bcf9.png)
 
 15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra. El capacitor tarda 1 s para cargarse. Si E = 75 V, determine R y C.
 
@@ -58,7 +67,13 @@ r=1 s para cargarse
 
 ![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio15.png)
 
-**11-3 Capacitores con un voltaje inicial**
+17. Para la figura 11-2, determine E,R y C si el capacitor tarda 5 ms en cargarse, la corriente en 1 constante de tiempo después de que el interruptor se cierra es de 3.679 mA, y el capacitor se carga a 45 volts en estado estable.
+
+![image](https://user-images.githubusercontent.com/85134094/127097464-a812872d-272b-44cb-862f-8ee07fcc54b8.png)
+
+![image](https://user-images.githubusercontent.com/85134094/127097528-80b937ef-cf9d-4d5e-987d-6ec696a57390.png)
+
+**11-3 Capacitores de un voltaje inicial**
 
 21. Para el capacitor de la figura 11-51, V0 = 30 V.
 
@@ -78,6 +93,22 @@ GRAFICS
 Vc inicia en 30 V y disminuye notarialmente en 20 V y así va disminuyendo paulatinamente además Ic comienza en 0 A en un tiempo de 0 s y así mismo disminuye paulatinamente
 
 **11-4 Ecuaciones de descarga del capacitor**
+
+23. Para el circuito de la figura 11-53, suponga que el capacitor está cargado a 50 V antes de que el interruptor se cierre.
+
+a. Determine la ecuación para el voltaje de descarga vc.
+
+b. Determine la ecuación para la corriente de descarga ic.
+
+c. Determine la constante de tiempo del circuito.
+
+d. Calcule vc e ic en t = 0+  seg, t = T, 2, 3, 4, y 5T.
+
+![image](https://user-images.githubusercontent.com/85134094/127097860-05af6ec1-0085-4002-9248-9d9a6e2e3082.png)
+
+![image](https://user-images.githubusercontent.com/85134094/127097876-85857139-6b6e-4f5c-816c-6c6662842b6b.png)
+
+![image](https://user-images.githubusercontent.com/85134094/127098007-ba6c638e-bb74-4e1e-8b68-5463ff5c30a9.png)
 
 27. Para la figura 11-54, sea E = 200 V, R2 = 1 k y C =0.5 F. Después de que el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2. 
 
@@ -101,15 +132,22 @@ C)	ecuaciones de descarga para vC e Ic
 
 ![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio27.3.png)
 
-**11-5 Circuitos más complejos**
+**11-5 Circuitos mas complejos**
+
+29. Los capacitores de la figura 11-55 están descargados. El interruptor se cierra en t = 0. Determine la ecuación para vc. Calcule vc a una constante de tiempo usando la ecuación y la curva de constante de tiempo universal. Compare sus respuestas.
+
+![image](https://user-images.githubusercontent.com/85134094/127098083-79f202f9-5719-414e-9d2f-ab461e48e41a.png)
+
+![image](https://user-images.githubusercontent.com/85134094/127098089-8f575f6a-4905-4015-8886-0de337cf0492.png)
+
+Analizando el circuito con el interruptor cerrado 
+
+![image](https://user-images.githubusercontent.com/85134094/127098112-dc4be502-9f9e-4965-a934-00ec3c7adccc.png)
 
 33. Para el circuito de la figura 11-54, el capacitor está inicialmente descargado.
 El interruptor es movido primero a la posición de carga y luego a la de descarga, proporcionando la corriente que se muestra en la figura 11-58. El capacitor se carga totalmente en 12.5 s. Determine E, R2 y C.
 
-**11-6 Aplicación de temporización RC**
-
-
-**11-7 Respuesta al pulso de circuitos RC**
+**11-7 Respuesta al pulso de circuitos Rc
 
 39. Considere la forma de onda de la figura 11-62.
 
@@ -130,36 +168,39 @@ c) El VRP es:
 
 ![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio39.2.png)
 
+41. Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de la figura 11-64
+
+![image](https://user-images.githubusercontent.com/85134094/127098254-30c9cdf9-8709-4f59-b1ec-9592885d963b.png)
+
+Para los tiempos de subida vemos en la grafica que se miden entre los puntos de 10 a 30 para lo cual de 2 a 3 el tiempo es de un micro segundo.
+
+Como podemos observar esta forma de onda es una forma ideal para lo cual el ancho del pulso seria de 3 a 6 micro segundos
 
 
-**CAPÍTULO 12**
-
-**12-3 Flujo magnético y densidad de flujo**
-
-3. El toroide de la figura 12-42 tiene una sección transversal circular y fi=628 microWb. Si r1=8 cm y r2=12 cm, ¿cuál es la densidad de flujo en teslas?
+**Capitulo 12** 
 
 **12-5 Espacios de aire, desbordamiento y núcleos laminados**
 
-**12-6 Elementos en serie y en paralelo**
+5. Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B=1.45 T, ¿qué valor tiene ø en webers?
+
+![image](https://user-images.githubusercontent.com/85134094/127098454-978425e8-6dab-450d-a744-236b237f1a04.png)
 
 **12-8 Intensidad de campo magnético y curvas de magnetización**
 
-9. Un núcleo con dimensiones de 2 cm × 3cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene 	 si el núcleo es de hierro fundido? ¿Si es de acero fundido? ¿Si es de hoja de acero con FA= 0.94?
+11. Considere una vez mas la figura 12-42. Si I = 10 A, N = 40 vueltas, r1 = 5 cm y r2 = 7 cm, ¿Qué valor tiene H en amperes-vuelta por metro?
+
+![image](https://user-images.githubusercontent.com/85134094/127098516-e836f3c3-ca43-42a2-9b33-f16c6fe0ea40.png)
 
 **12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
 
-15. Encuentre la corriente I en la figura 12-48 si fi= 0.16 mWb.
+17. Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para ϕ=0.128 mWb. No tome en cuenta el desbordamiento.
 
-21. Para el circuito de la figura 12-51, 	 -
- fi = 30× uWb y N = 2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I.
+![image](https://user-images.githubusercontent.com/85134094/127098616-63f90a70-eff2-4265-b524-064c31035cca.png)
 
-**12-11 Circuitos magnéticos en serie-paralelo**
+![image](https://user-images.githubusercontent.com/85134094/127098662-e0408685-b093-445b-a764-1fd0143cd9b9.png)
 
-**12-12 Circuitos magnéticos en serie: a partir de NI encontrar**
 
-27. Si NI= 644 Av para el núcleo de acero fundido de la figura 12-54, encuentre el flujo, fi.	
-
-**4.VIDEO**
+**4.Video**
 
 Link de video:
 
