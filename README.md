@@ -11,7 +11,11 @@ AUTORES :
 
 **1.OBJETIVOS**
 
+Objetivos Generales
 
+* Analizar los procesos de carga o descarga de un capacitador en un circuito RC por medio de la resolción de ejercicios ademas comprobar la relacion de la constante de tiempo con la capacitancia y la resistencia.
+
+* Definir conocimentos fundamamentales  sobre magnetismo ,las relaciones que existen entre cantidades electricas y magneticas. Además entender los principios de. circuitos eléctricos y los metodos de análisis.
 
 Objetivos Específicos
 
