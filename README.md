@@ -24,7 +24,18 @@ Objetivos Específicos
 
 **11-1 Introducción**
 
-3. a. ¿A qué se parece un capacitor descargado en el instante que se conecta el interruptor?
+3. a. ¿A qué se parece un capacitor descargado en el instante que se conecta el
+interruptor?
+
+**Se asemeja a un corto circuito**
+
+b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor?
+
+**Como una fuente de voltaje**
+
+c. ¿A qué se parece un capacitor en estado estable de cd?
+
+**A un circuito abierto **
 
 9. Repita el problema 8 para el circuito de la figura 11-5
 
