@@ -179,6 +179,10 @@ Como podemos observar esta forma de onda es una forma ideal para lo cual el anch
 
 **Capitulo 12** 
 
+3. El toroide de la figura 12-42 tiene una sección transversal circular y fi=628uWb. Si r1=8 cm y r2=12 cm, ¿cuál es la densidad de flujo en teslas?
+
+![]()
+
 **12-5 Espacios de aire, desbordamiento y núcleos laminados**
 
 5. Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B=1.45 T, ¿qué valor tiene ø en webers?
@@ -187,9 +191,18 @@ Como podemos observar esta forma de onda es una forma ideal para lo cual el anch
 
 **12-8 Intensidad de campo magnético y curvas de magnetización**
 
+9. Un núcleo con dimensiones de 2 cm  3 cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene 	 si el núcleo es de hierro fundido? ¿Si es de
+acero fundido? ¿Si es de hoja de acero con FA=0.94?
+
+![]()
+
 11. Considere una vez mas la figura 12-42. Si I = 10 A, N = 40 vueltas, r1 = 5 cm y r2 = 7 cm, ¿Qué valor tiene H en amperes-vuelta por metro?
 
 ![image](https://user-images.githubusercontent.com/85134094/127098516-e836f3c3-ca43-42a2-9b33-f16c6fe0ea40.png)
+
+15. Encuentre la corriente I en la figura 12-48 si fi=0.16 mWb.
+
+![]()
 
 **12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
 
