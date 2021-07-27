@@ -26,11 +26,13 @@ Objetivos Específicos
 
 3. a. ¿A qué se parece un capacitor descargado en el instante que se conecta el interruptor?
 
-9. Repita el problema 8 para el circuito de la figura 11-52.
+9. Repita el problema 8 para el circuito de la figura 11-5
 
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio9.png)
 
 •	Remplazo
 
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio9.1.png)
 
 
 15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra. El capacitor tarda 1 s para cargarse. Si E = 75 V, determine R y C.
@@ -41,7 +43,7 @@ I=3mA
 r=o cuando se cierra
 r=1 s para cargarse
 
-
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio15.png)
 
 21. Para el capacitor de la figura 11-51, V0 = 30 V.
 
@@ -51,6 +53,12 @@ b. Determine la expresión para la corriente iC.
 
 c. Grafique vC e iC.
 
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio21.png)
+
+GRAFICS
+
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio21%20gra1.png)
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio21gra2.png)
 
 Vc inicia en 30 V y disminuye notarialmente en 20 V y así va disminuyendo paulatinamente además Ic comienza en 0 A en un tiempo de 0 s y así mismo disminuye paulatinamente
 
@@ -63,13 +71,19 @@ b. ¿Cuál es la constante de tiempo de descarga?
 
 c. Determine las ecuaciones de descarga para vC e iC.
 
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio27.png)
+
 A)	Voltaje en la posición 2
 
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio27.1.png)
 
 B)	constante de tiempo de descarga
 
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio27.2.png)
+
 C)	ecuaciones de descarga para vC e Ic
 
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio27.3.png)
 
 33. Para el circuito de la figura 11-54, el capacitor está inicialmente descargado.
 El interruptor es movido primero a la posición de carga y luego a la de descarga, proporcionando la corriente que se muestra en la figura 11-58. El capacitor se carga totalmente en 12.5 s. Determine E, R2 y C.
@@ -83,13 +97,16 @@ b. ¿Cuál es el ciclo de trabajo?
 
 c. ¿Cuál es el VRP?
 
-
-
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio39.png)
 
 A) Es así que el periodo es el tiempo que tarda en dar una vuelta según el grafico es de T=5μs
 B) También se sabe que t_p=2μs ya que es la duración del pulso positivo 
 
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio39.1.png)
+
 c) El VRP es:
+
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio39.2.png)
 
 
 **4.VIDEO**
