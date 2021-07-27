@@ -19,6 +19,25 @@ Objetivos Generales
 
 Objetivos Específicos
 
+* determinar los voltajes y corrientes
+en circuitos RC simples durante la
+carga y descarga.
+
+* describir el uso de las formas de
+onda de carga y descarga
+
+* explicar por qué los transitorios
+ocurren en circuitos RC
+
+* determinar la intensidad de campo
+magnético o la densidad de flujo
+magnético
+
+* resolver circuitos magnéticos en
+serie-paralelo.
+
+*  explicar qué son los circuitos
+magnéticos y por qué se usan.
 
 **2.MARCO TEÓRICO**
 
