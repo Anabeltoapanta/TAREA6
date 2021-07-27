@@ -214,7 +214,7 @@ FA=0.94
 
 Factor apilamiento=0.94
 
-![]()
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/Capitulo%2012/1627385158727.jpg)
 
 11. Considere una vez mas la figura 12-42. Si I = 10 A, N = 40 vueltas, r1 = 5 cm y r2 = 7 cm, ¿Qué valor tiene H en amperes-vuelta por metro?
 
@@ -222,12 +222,20 @@ Factor apilamiento=0.94
 
 15. Encuentre la corriente I en la figura 12-48 si fi=0.16 mWb.
 
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/Capitulo%2012/1627385158727.jpg)
+
 DATOS
+
 ∅=0.16 mWb.=0.16×10^(-3) Wb
+
 I hierro = 0.06 m
+
 H Hierro = 1.550 At/m
+
 I acero = 0.14m
+
 H acero=350 At/m
+
 N=30 vueltas
 
 ![]()
