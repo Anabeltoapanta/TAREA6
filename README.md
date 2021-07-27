@@ -238,7 +238,7 @@ H acero=350 At/m
 
 N=30 vueltas
 
-![]()
+![](https://github.com/Anabeltoapanta/TAREA6/blob/main/Capitulo%2012/1627385718201.jpg)
 
 **12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
 
