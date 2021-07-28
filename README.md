@@ -96,9 +96,13 @@ c. ¿A qué se parece un capacitor en estado estable de cd?
 15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra. El capacitor tarda 1 s para cargarse. Si E = 75 V, determine R y C.
 
 Datos
+
 E=75V
+
 I=3mA
+
 r=o cuando se cierra
+
 r=1 s para cargarse
 
 ![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio15.png)
@@ -212,6 +216,7 @@ c. ¿Cuál es el VRP?
 ![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio39.png)
 
 A) Es así que el periodo es el tiempo que tarda en dar una vuelta según el grafico es de T=5μs
+
 B) También se sabe que t_p=2μs ya que es la duración del pulso positivo 
 
 ![](https://github.com/Anabeltoapanta/TAREA6/blob/main/CAPITULO%2011/ejercicio39.1.png)
